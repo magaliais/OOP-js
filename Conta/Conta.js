@@ -1,4 +1,4 @@
-import { Cliente } from "./Cliente.js";
+import { Cliente } from "../Cliente.js";
 
 class Conta {     // Classe abstrata
 

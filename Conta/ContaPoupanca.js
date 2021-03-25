@@ -13,7 +13,7 @@ class ContaPoupanca extends Conta{
   sacar(valor) {
     const taxa = 1.02;
     return this._sacar(valor, taxa);
-  }
+  };
 
 }
 
